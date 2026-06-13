@@ -160,6 +160,3 @@ On the included benchmark (7 queries, 2 repeated):
 
 ---
 
-## 📄 License
-
-MIT
